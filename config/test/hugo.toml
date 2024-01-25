@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-CN'
+title = 'Lou'
+theme = 'tranquilpeak'
+
+[params]
+  featured_image = ["css/custom.css"]
+  site_logo = "/picture/snow.png"
